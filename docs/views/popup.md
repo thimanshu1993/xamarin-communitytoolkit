@@ -193,8 +193,8 @@ You can position a popup anywhere on the screen, the screenshot below shows that
 
 Sample links:
 
-- [SimplePopup.xaml](https://github.com/xamarin/XamarinCommunityToolkit/blob/main/samples/XCT.Sample/Pages/Views/Popups/PopupPositionPage.xaml.xaml)
-- [SimplePopup.xaml.cs](https://github.com/xamarin/XamarinCommunityToolkit/blob/main/samples/XCT.Sample/Pages/Views/Popups/PopupPositionPage.xaml.xaml.cs)
+- [SimplePopup.xaml](https://github.com/xamarin/XamarinCommunityToolkit/blob/main/samples/XCT.Sample/Pages/Views/Popups/SimplePopup.xaml)
+- [SimplePopup.xaml.cs](https://github.com/xamarin/XamarinCommunityToolkit/blob/main/samples/XCT.Sample/Pages/Views/Popups/SimplePopup.xaml.cs)
 
 ## Sample project
 
